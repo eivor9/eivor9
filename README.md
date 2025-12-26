@@ -7,4 +7,4 @@
 
 <b>Mentor Volunteer Platform (MVP)</b>
 
-<div width="100%" align="center"><a href="https://github.com/eivor9/mvp-frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eivor9&repo=mvp-frontend&title_color=ef4444&text_color=ffffff&icon_color=000000&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/eivor9/mvp-backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eivor9&repo=mvp-backend&title_color=ef4444&text_color=ffffff&icon_color=000000&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/eivor9/mvp-frontend" align="left"><img align="left" width="45%" src="./frontend.png" /></a><a href="https://github.com/eivor9/mvp-backend" align="right"><img align="right" width="45%" src="./backend.png" /></a></div><br /><br /><br /><br /><br /><br /><br />
